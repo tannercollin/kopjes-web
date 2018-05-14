@@ -17,6 +17,8 @@ You will see the build errors and lint warnings in the console.
 
 ### Some notes to start
 
+CSS base is Skeleton. See the docs here: http://getskeleton.com/ Override Skeleton in each component's .css file.
+
 In the source files, you'll find a mix of what looks like HTML and JS. This is JSX and the major differences are:
 
 * Everything must be wrapped in a single top-level tag (I usually use `<div>`)
