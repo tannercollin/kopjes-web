@@ -1,0 +1,53 @@
+body {
+	font-family: 'Raleway', sans-serif;
+}
+
+html, body, #root {
+	height: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Lobster', serif;
+	letter-spacing: initial;
+}
+
+.container {
+	min-height: 100%;
+	position: relative;
+	padding-bottom: 6em;
+}
+
+.hero {
+	position: relative;
+}
+
+.logo {
+	display: block;
+	margin: auto;
+	padding: 1.5em;
+	max-width: 200px;
+}
+
+.menu {
+	text-align: center;
+	padding-bottom: 2em;
+
+	position: absolute;
+	bottom: 0;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+}
+
+.spacer {
+	height: 4em;
+}
+
+.footer {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	padding-bottom: 2em;
+}

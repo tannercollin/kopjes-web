@@ -23,6 +23,7 @@ class Home extends Component {
 					<ul>
 						<li><a href="https://docs.google.com/forms/d/1DfH9S5kJdIBHqfyawKS5rIML5tacw41XIVWNtSosLEA/viewform?edit_requested=true">Report Issues to Mods</a></li>
 						<li><a href="https://reddit.com/r/kopjes">Subreddit</a></li>
+						<li><a href="http://steamcommunity.com/groups/kopjesgame">Steam Group</a></li>
 						<li><a href="https://discordapp.com/invite/cR7F8kj">Discord</a></li>
 						<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeJv-K4w_4hi_Z5Dg7fxtGYMNMt_LiotMlsyE06VVcfFHeRYQ/viewform">Kopjes Handles Submission Form</a></li>
 						<li><a href="https://docs.google.com/spreadsheets/d/1r3UxRXBHfMgMXRXXcsb6ZIdiZTkB-TzxQ1KL7AWlgfc">View Kopjes Handles</a></li>
