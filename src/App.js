@@ -5,6 +5,7 @@ import './App.css';
 import logo from './logo.jpg';
 import Home from './Home';
 import About from './About';
+import Docket from './Docket';
 import Example from './Example';
 
 class App extends Component {
@@ -20,7 +21,7 @@ class App extends Component {
 						&nbsp;|&nbsp;
 						<Link to='/about'>About Us</Link>
 						&nbsp;|&nbsp;
-						<Link to='/example-page'>Example Page</Link>
+						<Link to='/docket'>Weekly Docket</Link>
 						&nbsp;|&nbsp;
 						<Link to='/example-page'>Example Page</Link>
 						&nbsp;|&nbsp;
@@ -33,6 +34,7 @@ class App extends Component {
 				<Switch>
 					<Route exact path='/' component={Home} />
 					<Route exact path='/about' component={About} />
+					<Route exact path='/docket' component={Docket} />
 					<Route exact path='/example-page' component={Example} />
 				</Switch>
 
